@@ -1,5 +1,7 @@
-# Damerau Levenshtein Distance
-Analysis of Damerau-Levenshtein metric using confidence intervals
-
 # Расстояние Дамерау-Левенштейна
 Неклассический анализ трудоемкости алгоритма посредством построения интервальной оценки.
+
+Структура репозитория:
+- Файл `331group_Adamovich.pdf` представляет собой отчет проделанной работы
+- Файл `Analysis.ipynb` содержит в себе непосредственно анализ
+- Файлы `choose number of experiments.ipynb`, `polynomal_regression_for_variance.m`, `regression.xlsx` содержат в себе промежуточные этапы исследования
